@@ -1,7 +1,7 @@
-# Projet de Filtre d'Image 2D
+# Projet de Filtre d'Image 2D sur cible FPGA
 
 ## Description du Projet
-Ce projet propose une implémentation de filtres d'image 2D pour des images de format `.dat` de 128x128 pixels. Les filtres inclus permettent différentes transformations :
+Ce projet propose une implémentation de filtres d'image 2D sur cible FPGA, traitant des images de format `.dat` de 128x128 pixels. Les filtres inclus permettent différentes transformations :
 
 - **Sobel** : Détection des contours
 - **Moyenne** : Floutage de l'image
