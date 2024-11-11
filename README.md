@@ -1,21 +1,19 @@
-# Projet de Filtre d'Image 2D sur cible FPGA
+# 2D Image Filter Project on FPGA Target
 
-## Description du Projet
-Ce projet propose une implémentation de filtres d'image 2D sur cible FPGA, traitant des images de format `.dat` de 128x128 pixels. Les filtres inclus permettent différentes transformations :
+## Project Description
+This project implements 2D image filters on an FPGA target, processing images in `.dat` format with a resolution of 128x128 pixels. The included filters allow for different transformations:
 
-- **Sobel** : Détection des contours
-- **Moyenne** : Floutage de l'image
-- **Laplace** : Accentuation des bords
+- **Sobel**: Edge detection
+- **Average**: Image blurring
+- **Laplace**: Edge enhancement
 
-## Structure du Projet
+## Project Structure
 
-- **`doc/`** : Contient la documentation du projet, incluant les explications sur les programmes, la description des simulations, et les résultats.
-- **`tools/`** : Regroupe les différents outils et scripts nécessaires pour manipuler et tester les images, appliquer les filtres, et visualiser les résultats.
+- **`doc/`**: Contains the project documentation, including explanations of the programs, descriptions of simulations, and results.
+- **`tools/`**: Contains various tools and scripts for manipulating and testing images, applying filters, and visualizing results.
 
 ## Installation
 
-Clonez ce dépôt et accédez aux dossiers `doc/` et `tools/` pour obtenir les informations détaillées et les outils nécessaires.
-
 ```bash
-git clone https://github.com/nom-utilisateur/nom-projet.git
-cd nom-projet
+git clone https://github.com/Bonnand/2D-Image-Filter.git
+cd 2D-Image-Filter
