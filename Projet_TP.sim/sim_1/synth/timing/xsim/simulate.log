@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+ERROR: File Lena128x128g_8bits.dat is not open. Cannot call endfile on it
+Time: 400 ns  Iteration: 0  Process: /tb_lena_processing/p_read
+  File: C:/Users/abonn/Desktop/Cours ESIREM/4eme_Annee/Archi_Reconfigurable/Projet_TP/Projet_TP.srcs/sim_1/new/tb_lena_processing.vhd
+
+HDL Line: C:/Users/abonn/Desktop/Cours ESIREM/4eme_Annee/Archi_Reconfigurable/Projet_TP/Projet_TP.srcs/sim_1/new/tb_lena_processing.vhd:62

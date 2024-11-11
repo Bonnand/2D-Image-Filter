@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"tb_lena_processing_func_synth.vhd" \
+"../../../../../Projet_TP.srcs/sim_1/new/tb_lena_processing.vhd" \
+
+# Do not sort compile order
+nosort

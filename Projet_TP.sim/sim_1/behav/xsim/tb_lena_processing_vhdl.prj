@@ -1,0 +1,11 @@
+# compile vhdl design source files
+vhdl fifo_generator_v13_2_7  \
+"../../../../Projet_TP.ip_user_files/ipstatic/hdl/fifo_generator_v13_2_rfs.vhd" \
+
+vhdl xil_defaultlib  \
+"../../../../Projet_TP.srcs/sources_1/new/delayed_line.vhd" \
+"../../../../Projet_TP.srcs/sources_1/new/top_filter2D_Average.vhd" \
+"../../../../Projet_TP.srcs/sim_1/new/tb_lena_processing.vhd" \
+
+# Do not sort compile order
+nosort

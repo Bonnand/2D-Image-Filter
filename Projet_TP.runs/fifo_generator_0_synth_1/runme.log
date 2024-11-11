@@ -1,0 +1,22 @@
+
+*** Running vivado
+    with args -log fifo_generator_0.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source fifo_generator_0.tcl
+
+
+
+****** Vivado v2022.2 (64-bit)
+  **** SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+  **** IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+    ** Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+
+source fifo_generator_0.tcl -notrace
+create_project: Time (s): cpu = 00:00:02 ; elapsed = 00:00:05 . Memory (MB): peak = 395.305 ; gain = 76.477
+INFO: [IP_Flow 19-6924] IPCACHE: Running cache check for IP inst: fifo_generator_0
+INFO: [IP_Flow 19-6922] IPCACHE: Exporting cached entry 5de8460bb73c25ad to dir: C:/Users/abonn/Desktop/Cours ESIREM/4eme_Annee/Archi_Reconfigurable/Projet_TP/Projet_TP.runs/fifo_generator_0_synth_1
+INFO: [IP_Flow 19-6928] IPCACHE: copied cached file c:/Users/abonn/Desktop/Cours ESIREM/4eme_Annee/Archi_Reconfigurable/Projet_TP/Projet_TP.cache/ip/2022.2/5/d/5de8460bb73c25ad/fifo_generator_0.dcp to C:/Users/abonn/Desktop/Cours ESIREM/4eme_Annee/Archi_Reconfigurable/Projet_TP/Projet_TP.runs/fifo_generator_0_synth_1/fifo_generator_0.dcp.
+INFO: [IP_Flow 19-6928] IPCACHE: copied cached file c:/Users/abonn/Desktop/Cours ESIREM/4eme_Annee/Archi_Reconfigurable/Projet_TP/Projet_TP.cache/ip/2022.2/5/d/5de8460bb73c25ad/fifo_generator_0_sim_netlist.v to C:/Users/abonn/Desktop/Cours ESIREM/4eme_Annee/Archi_Reconfigurable/Projet_TP/Projet_TP.runs/fifo_generator_0_synth_1/fifo_generator_0_sim_netlist.v.
+INFO: [IP_Flow 19-6928] IPCACHE: copied cached file c:/Users/abonn/Desktop/Cours ESIREM/4eme_Annee/Archi_Reconfigurable/Projet_TP/Projet_TP.cache/ip/2022.2/5/d/5de8460bb73c25ad/fifo_generator_0_sim_netlist.vhdl to C:/Users/abonn/Desktop/Cours ESIREM/4eme_Annee/Archi_Reconfigurable/Projet_TP/Projet_TP.runs/fifo_generator_0_synth_1/fifo_generator_0_sim_netlist.vhdl.
+INFO: [IP_Flow 19-6928] IPCACHE: copied cached file c:/Users/abonn/Desktop/Cours ESIREM/4eme_Annee/Archi_Reconfigurable/Projet_TP/Projet_TP.cache/ip/2022.2/5/d/5de8460bb73c25ad/fifo_generator_0_stub.v to C:/Users/abonn/Desktop/Cours ESIREM/4eme_Annee/Archi_Reconfigurable/Projet_TP/Projet_TP.runs/fifo_generator_0_synth_1/fifo_generator_0_stub.v.
+INFO: [IP_Flow 19-6928] IPCACHE: copied cached file c:/Users/abonn/Desktop/Cours ESIREM/4eme_Annee/Archi_Reconfigurable/Projet_TP/Projet_TP.cache/ip/2022.2/5/d/5de8460bb73c25ad/fifo_generator_0_stub.vhdl to C:/Users/abonn/Desktop/Cours ESIREM/4eme_Annee/Archi_Reconfigurable/Projet_TP/Projet_TP.runs/fifo_generator_0_synth_1/fifo_generator_0_stub.vhdl.
+INFO: [IP_Flow 19-4838] Using cached IP synthesis design for IP fifo_generator_0, cache-ID = 5de8460bb73c25ad.
+INFO: [Common 17-206] Exiting Vivado at Sat Nov  9 12:58:50 2024...

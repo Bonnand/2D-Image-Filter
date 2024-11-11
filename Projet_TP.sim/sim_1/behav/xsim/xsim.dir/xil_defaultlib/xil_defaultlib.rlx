@@ -1,0 +1,13 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/abonn/Desktop/Cours ESIREM/4eme_Annee/Archi_Reconfigurable/Projet_TP/Projet_TP.gen/sources_1/ip/fifo_generator_0/sim/fifo_generator_0.v,1727265921,verilog,,,,fifo_generator_0,,,,,,,,
+C:/Users/abonn/Desktop/Cours ESIREM/4eme_Annee/Archi_Reconfigurable/Projet_TP/Projet_TP.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+C:/Users/abonn/Desktop/Cours ESIREM/4eme_Annee/Archi_Reconfigurable/Projet_TP/Projet_TP.srcs/sim_1/new/delayed_line_tb.vhd,1731164463,vhdl,,,,delayed_line_tb,,,,,,,,
+C:/Users/abonn/Desktop/Cours ESIREM/4eme_Annee/Archi_Reconfigurable/Projet_TP/Projet_TP.srcs/sim_1/new/tb_lena_processing.vhd,1731325633,vhdl,,,,tb_lena_processing,,,,,,,,
+C:/Users/abonn/Desktop/Cours ESIREM/4eme_Annee/Archi_Reconfigurable/Projet_TP/Projet_TP.srcs/sources_1/new/delayed_line.vhd,1731164120,vhdl,,,,delayed_line,,,,,,,,
+C:/Users/abonn/Desktop/Cours ESIREM/4eme_Annee/Archi_Reconfigurable/Projet_TP/Projet_TP.srcs/sources_1/new/top_filter2D_Average.vhd,1731318935,vhdl,,,,top_filter2d_average,,,,,,,,
+C:/Users/abonn/Desktop/Cours ESIREM/4eme_Annee/Archi_Reconfigurable/Projet_TP/Projet_TP.srcs/sources_1/new/top_filter2D_Laplacian.vhd,1730839036,vhdl,,,,top_filter2d_laplacian,,,,,,,,
+C:/Users/abonn/Desktop/Cours ESIREM/4eme_Annee/Archi_Reconfigurable/Projet_TP/Projet_TP.srcs/sources_1/new/top_filter2D_Sobel.vhd,1731318383,vhdl,,,,top_filter2d_sobel,,,,,,,,
+C:/Users/abonn/Desktop/Cours ESIREM/4eme_Annee/Archi_Reconfigurable/Projet_TP/tools/tb_lena_dupliq_2p.vhd,1729442886,vhdl,,,,tb_lena_dupliq_2p,,,,,,,,
